@@ -1,7 +1,7 @@
 # 💫 About Me:
 I am a passionate FullStack developer, looking to make real world problem solving apps
 
-<a href="https://app.daily.dev/ashishyd"><img src="https://api.daily.dev/devcards/30f087a09dba4af59ea2d52914453d7e.png?r=2cm" width="400" alt="ASHISH YADAV's Dev Card"/></a>
+<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/ashishyd/ashishyd/blob/main/devcard.svg" width="400" alt="Ashish Yadav's Dev Card"/></a>
 
 ## 🌐 Socials:
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/ashish_yd) 
