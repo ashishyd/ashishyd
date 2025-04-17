@@ -1,5 +1,5 @@
 # 💫 About Me:
-Passionate FullStack developer and software architect, looking to make real world problem solving apps
+Senior Technology Leader & Solution Architect with 16+ years of experience transitioning from IC to leadership roles across startup and enterprise environments. Proven leader at Atlassian, American Express, Siemens Healthineers, SAP and EPAM Systems, building and scaling high-performance engineering teams while maintaining deep technical involvement. Expertise in navigating complex requirements in regulated domains including fintech, e-commerce, healthcare, and life sciences. Demonstrated success in managing multiple concurrent projects, making difficult organizational decisions, architectural decisions and maintaining technical excellence while growing teams.
 
 <a href="https://app.daily.dev/ashishyd"><img src="https://api.daily.dev/devcards/v2/zTeYlzEfgazPGF9wqKIWH.png?type=default&r=3gg" width="356" alt="ASHISH YADAV's Dev Card"/></a>
 
